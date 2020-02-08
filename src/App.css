@@ -1,0 +1,88 @@
+.App {
+    text-align: center;
+}
+.title {
+    text-align: center;
+    height:175px;
+}
+.rootButton {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    cursor: pointer;
+    outline: none;
+}
+.green {
+    background-color: green;
+}
+.darkGrey {
+  background-color: darkgray;
+}
+.btn{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+  outline: none;
+}
+.PictureApp{
+  margin: auto;
+  width: 30%;
+  height: 80%;
+  padding: 20px;
+}
+.currentImg{
+  width: 100%;
+  height: 350px;
+}
+.picSlider{
+  width: 100px;
+  height: 60px;
+  padding-right: 8px;
+  cursor: pointer;
+  opacity:0.5;
+  transition: 0.4s;
+}
+
+.picSlider:hover{
+  opacity: 1;
+}
+.currentImg{
+  border: 1px solid blue;
+}
+
+.currentPic{
+  margin-top: 2px;
+  border: 3px solid #00f;
+  width: 95px;
+  height: 60px;
+  margin-right: 8px;
+}
+.backToHome{
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 22px;
+  color: blue;
+  background-color: bisque;
+  font-family: Lato;
+  width: 110px;
+  height: 50px;
+  background-color: #fff;
+  box-shadow: 0 0 14px 0 rgba(0,0,0,.75);
+  cursor: pointer;
+
+}
+@media screen and (max-width: 1100px) {
+  .PictureApp{
+    width: 300px;
+  }
+.picSlider{
+  width: 50px;
+  height: 35px;
+}
+.currentPic{
+  width: 45px;
+  height: 35px;
+}
+}
