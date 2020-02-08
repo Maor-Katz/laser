@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/laser/static/css/main.93321299.chunk.css",
+    "main.js": "/laser/static/js/main.482bdeca.chunk.js",
+    "main.js.map": "/laser/static/js/main.482bdeca.chunk.js.map",
+    "runtime-main.js": "/laser/static/js/runtime-main.459ebb9c.js",
+    "runtime-main.js.map": "/laser/static/js/runtime-main.459ebb9c.js.map",
+    "static/js/2.f450edf1.chunk.js": "/laser/static/js/2.f450edf1.chunk.js",
+    "static/js/2.f450edf1.chunk.js.map": "/laser/static/js/2.f450edf1.chunk.js.map",
+    "index.html": "/laser/index.html",
+    "precache-manifest.c0e050719dd7450ede0c70b0f5f0a142.js": "/laser/precache-manifest.c0e050719dd7450ede0c70b0f5f0a142.js",
+    "service-worker.js": "/laser/service-worker.js",
+    "static/css/main.93321299.chunk.css.map": "/laser/static/css/main.93321299.chunk.css.map",
+    "static/js/2.f450edf1.chunk.js.LICENSE.txt": "/laser/static/js/2.f450edf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.459ebb9c.js",
+    "static/js/2.f450edf1.chunk.js",
+    "static/css/main.93321299.chunk.css",
+    "static/js/main.482bdeca.chunk.js"
+  ]
+}
